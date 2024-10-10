@@ -1,4 +1,0 @@
----
-title: navigation
-layout: home
----
