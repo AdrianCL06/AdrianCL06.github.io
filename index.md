@@ -1,6 +1,7 @@
 ---
 title: Inicio
 layout: home
+nav_order: 1
 ---
 
 # Bocata de secreto ibérico gratinado, pimiento asado y huevo frito con cebolla caramelizada
