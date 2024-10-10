@@ -1,1 +1,4 @@
-
+---
+title: navigation
+layout: home
+---
