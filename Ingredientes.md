@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # **INGREDIENTES**
 
-:alarm_clock: 20 minutos  :relieved: 1 persona
+Tiempo: 20 minutos  Personas: 1 persona
 
 ### 1. 1 torrada de pan de pagés
 ### 2. 125 gr secreto ibérico
