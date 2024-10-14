@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Pasos
 layout: home
-nav_order: 1
+nav_order: 3
 ---
