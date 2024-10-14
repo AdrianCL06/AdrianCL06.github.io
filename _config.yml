@@ -1,7 +1,7 @@
 title: Página de Adrián
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
+favicon: "https://github.com/AdrianCL06/AdrianCL06.github.io/blob/main/favicon-32x32.png"
 url: https://adriancl06.github.io/
 
 aux_links:
