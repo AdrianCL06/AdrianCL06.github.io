@@ -10,3 +10,5 @@ nav_order: 1
 
 Receta para los amantes de las comidas con una gran cantidad de sabores que no tienen miedo a mancharse las manos. Lo mejor que tiene esta receta es su **sencillez** ya que no hace falta ser ningún experto
 para hacerla y que te quede genial. Receta digna de los mejores restaurantes de carretera para los que disfrutan de un buen bocadillo como con ninguna otra comida.
+
+[Página utilizada](https://cookpad.com/es/recetas/16963507-bocata-de-secreto-iberico-gratinado-pimiento-asado-y-huevo-frito-con-cebolla-caramelizada)
