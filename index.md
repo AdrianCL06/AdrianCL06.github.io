@@ -13,4 +13,4 @@ para hacerla y que te quede genial. Receta digna de los mejores restaurantes de 
 
 [Página utilizada](https://cookpad.com/es/recetas/16963507-bocata-de-secreto-iberico-gratinado-pimiento-asado-y-huevo-frito-con-cebolla-caramelizada)
 
-[Más recetas](otras.md)
+[Más recetas](AdrianCL06.github.io/otras.md)
