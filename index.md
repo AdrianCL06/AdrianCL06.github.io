@@ -2,11 +2,6 @@
 title: Inicio
 layout: home
 nav_order: 1
-nav_external_links:
-  - title: Página utilizada
-    url: [https://github.com/just-the-docs/just-the-docs](https://cookpad.com/es/recetas/16963507-bocata-de-secreto-iberico-gratinado-pimiento-asado-y-huevo-frito-con-cebolla-caramelizada)
-    hide_icon: false 
-    opens_in_new_tab: false 
 ---
 
 # **Bocata de secreto ibérico gratinado, pimiento asado y huevo frito con cebolla caramelizada**
