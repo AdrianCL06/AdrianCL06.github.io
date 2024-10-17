@@ -3,6 +3,10 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 favicon: "https://github.com/AdrianCL06/AdrianCL06.github.io/blob/main/favicon.ico"
 url: https://adriancl06.github.io/
-
+nav_external_links:
+  - title: Página utilizada
+    url: https://cookpad.com/es/recetas/16963507-bocata-de-secreto-iberico-gratinado-pimiento-asado-y-huevo-frito-con-cebolla-caramelizada
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
